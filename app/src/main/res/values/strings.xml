@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="pictureString">http://megakohz.bget.ru/test_task/%1$s</string>
+</resources>
